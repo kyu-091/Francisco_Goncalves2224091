@@ -1,8 +1,8 @@
-\# kyusAPTB - Pokemon Team Builder Application
+# kyusAPTB - Pokemon Team Builder Application
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -10,121 +10,121 @@ kyusAPTB is a Windows Forms desktop application for Pokemon enthusiasts to explo
 
 
 
-\## Features
+## Features
 
 
 
-\### User Authentication
+### User Authentication
 
-\- User registration and login system
+- User registration and login system
 
-\- Session management to track current user
+- Session management to track current user
 
-\- Secure password handling
+- Secure password handling
 
 
 
-\### Pokedex
+### Pokedex
 
-\- Browse all 1025 Pokemon with search functionality
+- Browse all 1025 Pokemon with search functionality
 
-\- View detailed Pokemon information including:
+- View detailed Pokemon information including:
 
-&#x20; - Base stats (HP, Attack, Defense, Special Attack, Special Defense, Speed)
+- Base stats (HP, Attack, Defense, Special Attack, Special Defense, Speed)
 
-&#x20; - Abilities (including hidden abilities)
+- Abilities (including hidden abilities)
 
-&#x20; - Types with visual display
+- Types with visual display
 
-&#x20; - Height and weight
+- Height and weight
 
-&#x20; - Species and description
+- Species and description
 
-&#x20; - Type effectiveness (weaknesses, resistances, immunities, normal hits)
+- Type effectiveness (weaknesses, resistances, immunities, normal hits)
 
-\- Real-time search filtering
+- Real-time search filtering
 
-\- Pokemon sprite display from official artwork
+- Pokemon sprite display from official artwork
 
 
 
-\### Team Builder
+### Team Builder
 
-\- Create and manage up to 3 teams per user
+- Create and manage up to 3 teams per user
 
-\- Each team supports 6 Pokemon slots
+- Each team supports 6 Pokemon slots
 
-\- Edit team members with nickname support
+- Edit team members with nickname support
 
-\- EV training with validation (max 252 per stat, 508 total)
+- EV training with validation (max 252 per stat, 508 total)
 
-\- Visual display of team Pokemon sprites
+- Visual display of team Pokemon sprites
 
-\- Save and load teams from database
+- Save and load teams from database
 
 
 
-\### Team Editing
+### Team Editing
 
-\- Select Pokemon from the Pokedex
+- Select Pokemon from the Pokedex
 
-\- Choose items, abilities, natures, and moves
+- Choose items, abilities, natures, and moves
 
-\- Set EV values for each stat
+- Set EV values for each stat
 
-\- Auto-validate EV spreads
+- Auto-validate EV spreads
 
-\- Persistent storage of all team data
+- Persistent storage of all team data
 
 
 
-\### Cyberpunk Theme
+### Cyberpunk Theme
 
-\- Dark terminal-style interface
+- Dark terminal-style interface
 
-\- Neon cyan accents
+- Neon cyan accents
 
-\- Monospace font throughout
+- Monospace font throughout
 
-\- Borderless window design
+- Borderless window design
 
-\- Consistent visual style across all forms
+- Consistent visual style across all forms
 
 
 
-\## Technology Stack
+## Technology Stack
 
 
 
-\- \*\*Framework\*\*: .NET Framework 4.7.2 / Windows Forms
+- **Framework**: .NET Framework 4.7.2 / Windows Forms
 
-\- \*\*Language\*\*: C# 7.3
+- **Language**: C# 7.3
 
-\- \*\*API\*\*: PokeApiNet (PokeAPI wrapper)
+- **API**: PokeApiNet (PokeAPI wrapper)
 
-\- \*\*Database\*\*: Microsoft SQL Server
+- **Database**: Microsoft SQL Server
 
-\- \*\*Data Access\*\*: ADO.NET with SqlClient
+- **Data Access**: ADO.NET with SqlClient
 
 
 
-\## Usage
+## Usage
 
 
 
-1\. Register a new account or login with existing credentials
+1. Register a new account or login with existing credentials
 
-2\. Use the Pokedex to explore Pokemon and learn about their stats and type matchups
+2. Use the Pokedex to explore Pokemon and learn about their stats and type matchups
 
-3\. Navigate to Team Builder to create or edit teams
+3. Navigate to Team Builder to create or edit teams
 
-4\. Click Edit on any team to select Pokemon and customize EV spreads
+4. Click Edit on any team to select Pokemon and customize EV spreads
 
-5\. Save teams to persist your progress
+5. Save teams to persist your progress
 
 
 
-\## License
+## License
 
 
 
