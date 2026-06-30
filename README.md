@@ -10,85 +10,65 @@ kyusAPTB is a Windows Forms desktop application for Pokemon enthusiasts to explo
 
 
 
+[*YouTube Video*](https://www.youtube.com/watch?v=UMZ9ZDv1wvU)
+
+
+
 ## Features
 
 
 
 ### User Authentication
 
-- User registration and login system
-
-- Session management to track current user
-
-- Secure password handling
+* User registration and login system
+* Session management to track current user
+* Secure password handling
 
 
 
 ### Pokedex
 
-- Browse all 1025 Pokemon with search functionality
-
-- View detailed Pokemon information including:
-
-- Base stats (HP, Attack, Defense, Special Attack, Special Defense, Speed)
-
-- Abilities (including hidden abilities)
-
-- Types with visual display
-
-- Height and weight
-
-- Species and description
-
-- Type effectiveness (weaknesses, resistances, immunities, normal hits)
-
-- Real-time search filtering
-
-- Pokemon sprite display from official artwork
+* Browse all 1025 Pokemon with search functionality
+* View detailed Pokemon information including:
+* Base stats (HP, Attack, Defense, Special Attack, Special Defense, Speed)
+* Abilities (including hidden abilities)
+* Types with visual display
+* Height and weight
+* Species and description
+* Type effectiveness (weaknesses, resistances, immunities, normal hits)
+* Real-time search filtering
+* Pokemon sprite display from official artwork
 
 
 
 ### Team Builder
 
-- Create and manage up to 3 teams per user
-
-- Each team supports 6 Pokemon slots
-
-- Edit team members with nickname support
-
-- EV training with validation (max 252 per stat, 508 total)
-
-- Visual display of team Pokemon sprites
-
-- Save and load teams from database
+* Create and manage up to 3 teams per user
+* Each team supports 6 Pokemon slots
+* Edit team members with nickname support
+* EV training with validation (max 252 per stat, 508 total)
+* Visual display of team Pokemon sprites
+* Save and load teams from database
 
 
 
 ### Team Editing
 
-- Select Pokemon from the Pokedex
-
-- Choose items, abilities, natures, and moves
-
-- Set EV values for each stat
-
-- Auto-validate EV spreads
-
-- Persistent storage of all team data
+* Select Pokemon from the Pokedex
+* Choose items, abilities, natures, and moves
+* Set EV values for each stat
+* Auto-validate EV spreads
+* Persistent storage of all team data
 
 
 
 ### Cyberpunk Theme
 
-- Dark terminal-style interface
-
-- Neon cyan accents
-
-- Monospace font throughout
-
-- Borderless window design
-
-- Consistent visual style across all forms
+* Dark terminal-style interface
+* Neon cyan accents
+* Monospace font throughout
+* Borderless window design
+* Consistent visual style across all forms
 
 
 
@@ -96,15 +76,11 @@ kyusAPTB is a Windows Forms desktop application for Pokemon enthusiasts to explo
 
 
 
-- **Framework**: .NET Framework 4.7.2 / Windows Forms
-
-- **Language**: C# 7.3
-
-- **API**: PokeApiNet (PokeAPI wrapper)
-
-- **Database**: Microsoft SQL Server
-
-- **Data Access**: ADO.NET with SqlClient
+* **Framework**: .NET Framework 4.7.2 / Windows Forms
+* **Language**: C# 7.3
+* **API**: PokeApiNet (PokeAPI wrapper)
+* **Database**: Microsoft SQL Server
+* **Data Access**: ADO.NET with SqlClient
 
 
 
@@ -113,13 +89,9 @@ kyusAPTB is a Windows Forms desktop application for Pokemon enthusiasts to explo
 
 
 1. Register a new account or login with existing credentials
-
 2. Use the Pokedex to explore Pokemon and learn about their stats and type matchups
-
 3. Navigate to Team Builder to create or edit teams
-
 4. Click Edit on any team to select Pokemon and customize EV spreads
-
 5. Save teams to persist your progress
 
 
